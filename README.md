@@ -6,14 +6,11 @@ I design and ship AI products that help B2B users get to value faster: copilots 
 
 **Current role and timeline:** [LinkedIn](https://www.linkedin.com/in/harshalnpatil) · [harshal-patil.com/about](https://www.harshal-patil.com/about)
 
-## What I build
+## Selected builds
 
-Recent examples ([more on my Build page](https://www.harshal-patil.com/build)):
-
-- **AI agent observability** — tooling to debug copilot behavior from the user's view
-- **Newsletters → private podcast** — n8n + AI pipeline to turn email/blog noise into a value-only audio feed
-- **Used-car shortlisting (2026)** — n8n, OpenAI, and Cursor to extract specs, rank options, and pick showrooms
-- **Smart home ops** — Home Assistant + n8n; including Tado rate-limit debugging with Cursor and Lovable
+- [**Home Assistant AI Copilot Toolkit**](https://github.com/harshalnpatil/home-assistant-ai-copilot-toolkit) — public-safe scripts and redacted fixtures for indexing, verifying, and inspecting Home Assistant configuration inputs.
+- [**n8n Utilities**](https://github.com/harshalnpatil/n8n_utilities_2026) — local tools to back up, compare, review, and manage n8n workflow exports without publishing instance data.
+- [**PM Job Search Templates**](https://github.com/harshalnpatil/pm-job-search-templates) — scripts and structured Markdown templates that create a consistent workspace for each job opportunity.
 
 ## Writing
 
